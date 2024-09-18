@@ -1,0 +1,14 @@
+C:\Users\Samuel Hossain\Desktop\Repos\PhoneMaker\PhoneMaker\PhoneMaker\bin\Debug\net8.0\PhoneMaker.exe
+C:\Users\Samuel Hossain\Desktop\Repos\PhoneMaker\PhoneMaker\PhoneMaker\bin\Debug\net8.0\PhoneMaker.deps.json
+C:\Users\Samuel Hossain\Desktop\Repos\PhoneMaker\PhoneMaker\PhoneMaker\bin\Debug\net8.0\PhoneMaker.runtimeconfig.json
+C:\Users\Samuel Hossain\Desktop\Repos\PhoneMaker\PhoneMaker\PhoneMaker\bin\Debug\net8.0\PhoneMaker.dll
+C:\Users\Samuel Hossain\Desktop\Repos\PhoneMaker\PhoneMaker\PhoneMaker\bin\Debug\net8.0\PhoneMaker.pdb
+C:\Users\Samuel Hossain\Desktop\Repos\PhoneMaker\PhoneMaker\PhoneMaker\obj\Debug\net8.0\PhoneMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Hossain\Desktop\Repos\PhoneMaker\PhoneMaker\PhoneMaker\obj\Debug\net8.0\PhoneMaker.AssemblyInfoInputs.cache
+C:\Users\Samuel Hossain\Desktop\Repos\PhoneMaker\PhoneMaker\PhoneMaker\obj\Debug\net8.0\PhoneMaker.AssemblyInfo.cs
+C:\Users\Samuel Hossain\Desktop\Repos\PhoneMaker\PhoneMaker\PhoneMaker\obj\Debug\net8.0\PhoneMaker.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Hossain\Desktop\Repos\PhoneMaker\PhoneMaker\PhoneMaker\obj\Debug\net8.0\PhoneMaker.dll
+C:\Users\Samuel Hossain\Desktop\Repos\PhoneMaker\PhoneMaker\PhoneMaker\obj\Debug\net8.0\refint\PhoneMaker.dll
+C:\Users\Samuel Hossain\Desktop\Repos\PhoneMaker\PhoneMaker\PhoneMaker\obj\Debug\net8.0\PhoneMaker.pdb
+C:\Users\Samuel Hossain\Desktop\Repos\PhoneMaker\PhoneMaker\PhoneMaker\obj\Debug\net8.0\PhoneMaker.genruntimeconfig.cache
+C:\Users\Samuel Hossain\Desktop\Repos\PhoneMaker\PhoneMaker\PhoneMaker\obj\Debug\net8.0\ref\PhoneMaker.dll
